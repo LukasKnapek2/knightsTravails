@@ -47,4 +47,4 @@ while (queue.length !== 0) {
   }
 }
 }
-console.log(searchShortestPath([3,3], [4,3]))
+searchShortestPath([3,3], [4,3])
